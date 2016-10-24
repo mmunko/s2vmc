@@ -1,0 +1,11 @@
+{
+  "model_name": "rbf_3000_01",
+  "test_size": 0.1,
+  "C": 3000,
+  "gamma": 0.01,
+  "kernel": "rbf",
+  "probability": 1,
+  "verbose": 1,
+  "shrinking": 0,
+  "decision_function_shape": "ovr"
+}
